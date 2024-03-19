@@ -1,0 +1,29 @@
+.tabs {
+  .MuiTabs-flexContainer {
+    gap: 2px !important;
+    button {
+      padding: 15px 0;
+      min-height: auto;
+      min-width: auto;
+      align-items: center;
+      &.Mui-selected {
+        color: #485165;
+        border-bottom: 2px solid #485165;
+        background-color: white !important;
+      }
+      border-radius: 10px 10px 0 0;
+    }
+  }
+  .MuiTabs-indicator {
+    display: none !important;
+  }
+}
+.button-style {
+  border: 1px solid black !important;
+  border-radius: 25px !important;
+  border-color: #485165 !important;
+  text-transform: capitalize !important;
+}
+.tab-main {
+  display: none !important;
+}
