@@ -1,17 +1,17 @@
 import React from "react";
 import { Box } from "@mui/material";
-import ChartContainer from "../chartContainer/index.tsx";
 import { ChartData } from "../../utils/types.ts";
+import ChartContainer from "../chartContainer/index.tsx";
 
-const ChartOne: React.FC = () => {
+const ChartTwo: React.FC = () => {
   const chartData: ChartData = {
     labels: ["January", "February", "March", "April", "May", "June"],
     datasets: [
       {
         data: [65, 59, 80, 81, 56, 55],
         fill: false,
-        backgroundColor: "rgb(68, 114, 196)",
-        borderColor: "rgb(68, 114, 196)",
+        backgroundColor: "rgb(238, 125, 48)",
+        borderColor: "rgb(238, 125, 48)",
         tension: 0.1,
         label: "Dataset 1",
       },
@@ -21,10 +21,10 @@ const ChartOne: React.FC = () => {
   return (
     <Box>
       <ChartContainer
-        title="Count of Units > 90% Max Observed"
+        title="Coal Stocks Short Tons vs Week Number"
         data={chartData}
       />
     </Box>
   );
 };
-export default ChartOne;
+export default ChartTwo;
