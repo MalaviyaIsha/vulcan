@@ -1,0 +1,15 @@
+.text{
+    background-color: white;
+    color: blue;
+}
+
+.contained{
+    background-color: blue;
+    color: white;
+}
+
+.outlined{
+    border: 1px solid blue;
+    background-color: white;
+    color: blue;
+}

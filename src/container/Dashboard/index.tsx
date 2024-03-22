@@ -3,6 +3,7 @@ import Box from "@mui/material/Box";
 import { Typography, Button } from "@mui/material";
 import "./index.scss";
 import DashBoardTabs from "../../components/dashBoardTabs/index.tsx";
+import ButtonStyle from "../../components/Button/buttonstyle1.tsx";
 
 const Dashboard: React.FC = () => {
   const tabTitle = ["Overview", "Coal", "Power"];
@@ -27,12 +28,10 @@ const Dashboard: React.FC = () => {
           </Box>
         </Box>
         <Box className=" shadow-2xl flex flex-col h-[calc(100vh-145px)] my-4 rounded-xl overflow-auto">
-          <DashBoardTabs
-            tabTitle={tabTitle}
-            value={value}
-            handleChange={handleChange}
-          />
-          
+          <DashBoardTabs />
+           {/* tabTitle={tabTitle}
+             value={value}
+             handleChange={handleChange} */}
         </Box>
       </Box>
     </Box>

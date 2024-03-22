@@ -27,7 +27,7 @@ const ChartFour: React.FC = () => {
     return (
     <Box>
       <ChartContainer
-        title="Count of Units > 90% Max Observed"
+        title="Gas as % of (Coal + Gas) Generation"
         data={chartData}
       />
     </Box>

@@ -41,6 +41,7 @@
     "indent":"off",
     "import/extensions": "off",
     "object-curly-newline": "off",
-    "no-unused-vars":"off" 
+    "no-unused-vars":"off",
+    "eslint-plugin-vue/html-button-has-type":"off"
   }
 }

@@ -6,13 +6,12 @@ import ChartTwo from "../charts/ChartTwo.tsx";
 import ChartThree from "../charts/ChartThree.tsx";
 import ChartFour from "../charts/ChartFour.tsx";
 
-const CoalTabs: React.FC = () => {
-  const tabTitle = ["Supply", "Demand", "Stocks", "Price"];
+const PowerTabs: React.FC = () => {
+  const tabTitle = ["Supply", "Demand", "Price"];
   const [value, setValue] = React.useState(0);
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
     setValue(newValue);
   };
-
   const tabContent = [
     [
       <Box>
@@ -34,27 +33,14 @@ const CoalTabs: React.FC = () => {
         <ChartFour />
       </Box>,
     ],
-    [
-      <Box className="grid grid-cols-2">
-        <ChartOne />
-        <ChartTwo />
-        <ChartThree />
-        <ChartFour />
-      </Box>,
-    ],
   ];
   return (
-    <Box>
-      <Box>
-        <CommonTabs
-          tabTitle={tabTitle}
-          value={value}
-          onChange={handleChange}
-          tabContent={tabContent}
-        />
-      </Box>
-    </Box>
+    <CommonTabs
+      tabContent={tabContent}
+      tabTitle={tabTitle}
+      value={value}
+      onChange={handleChange}
+    />
   );
 };
-
-export default CoalTabs;
+export default PowerTabs;
