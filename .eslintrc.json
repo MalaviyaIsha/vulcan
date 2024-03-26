@@ -38,6 +38,10 @@
     "linebreak-style":"off",
     "react/jsx-tag-spacing": "off",
     "no-trailing-spaces": "off",
-    "indent":"off"
+    "indent":"off",
+    "import/extensions": "off",
+    "object-curly-newline": "off",
+    "no-unused-vars":"off",
+    "eslint-plugin-vue/html-button-has-type":"off"
   }
 }
