@@ -1,17 +1,25 @@
 import React from "react";
-import { LayersControl, MapContainer, Marker, Popup, SVGOverlay, TileLayer, Tooltip } from "react-leaflet";
+import {
+  LayersControl,
+  MapContainer,
+  Marker,
+  Popup,
+  SVGOverlay,
+  TileLayer,
+  Tooltip,
+} from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import "./styles.scss";
-import { Icon } from "leaflet";
+import { Icon, LatLngBoundsExpression, LatLngExpression, LeafletMouseEvent } from "leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 
 interface MarkerType {
-  geocode: [number, number];
+  geocode: LatLngExpression;
   popUp: string;
 }
 
 interface BoundType {
-  bounds: [[number, number], [number, number]];
+  bounds: LatLngBoundsExpression;
 }
 
 const DisplayMap: React.FC = () => {
@@ -52,10 +60,19 @@ const DisplayMap: React.FC = () => {
         />
 
         <MarkerClusterGroup chunkedLoading>
-          {markers.map(({ geocode, popUp }) => (
-            <Marker position={geocode} icon={customIcon}>
-              <Popup>{popUp}</Popup>
-              <Tooltip>Tooltip for Marker</Tooltip>
+          {markers.map(({ geocode, popUp }, index) => (
+            <Marker
+              // eslint-disable-next-line react/no-array-index-key
+              key={index}
+              position={geocode}
+              icon={customIcon}
+              eventHandlers={{
+                mouseover: (event) => event.target.openPopup(),
+                mouseout: (event) => event.target.closePopup()
+              }}
+            >
+              <Popup>{`Marker ${index + 1}: ${popUp}`}</Popup>
+              {/* <Tooltip>Tooltip for Marker</Tooltip> */}
             </Marker>
           ))}
         </MarkerClusterGroup>
@@ -71,21 +88,16 @@ const DisplayMap: React.FC = () => {
         <LayersControl position="topright">
           <LayersControl.Overlay name="Marker with popup1">
             <Marker position={[51.505, -0.03]} icon={customIcon}>
-              <Popup>
-                A pretty CSS3 popup.
-              </Popup>
+              <Popup>A pretty CSS3 popup.</Popup>
             </Marker>
           </LayersControl.Overlay>
           <LayersControl.Overlay name="Marker with popup2">
             <Marker position={[51.505, -0.06]} icon={customIcon}>
-              <Popup>
-                A pretty CSS3 popup.
-              </Popup>
+              <Popup>A pretty CSS3 popup.</Popup>
             </Marker>
           </LayersControl.Overlay>
         </LayersControl>
       </MapContainer>
-
     </div>
   );
 };
