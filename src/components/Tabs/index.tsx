@@ -1,6 +1,6 @@
-import { Box, Tab, Tabs } from "@mui/material";
 import React from "react";
 import './styles.scss';
+import { Box, Tab, Tabs } from "@mui/material";
 
 interface CommonTabsProps {
   tabTitle: string[];

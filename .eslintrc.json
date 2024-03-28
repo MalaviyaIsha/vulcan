@@ -42,6 +42,8 @@
     "import/extensions": "off",
     "object-curly-newline": "off",
     "no-unused-vars":"off",
-    "eslint-plugin-vue/html-button-has-type":"off"
+    "eslint-plugin-vue/html-button-has-type":"off" , 
+    "import/no-extraneous-dependencies": "off",
+    "global-require": "off"
   }
 }
