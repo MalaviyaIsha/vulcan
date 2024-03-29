@@ -17,7 +17,7 @@ const initialViewState = {
 };
 
 const MapWithJsonData: React.FC = () => {
-  const onClick = (info: PickingInfo<{ properties: { Name: string } }>) => {
+  const onClick = (info: PickingInfo) => {
     if (info.object) {
       alert(info.object.properties.Name);
     }
