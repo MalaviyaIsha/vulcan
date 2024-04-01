@@ -1,0 +1,10 @@
+# Ignore binary files
+src/assets/location-icon.png
+
+# Ignore SCSS files
+src/components/LeafletMap/styles.scss
+src/components/Tabs/styles.scss
+src/container/Dashboard/index.scss
+src/components/deckglMap/map.scss
+# Ignore JSON file
+src/components/deckglMap/data.json

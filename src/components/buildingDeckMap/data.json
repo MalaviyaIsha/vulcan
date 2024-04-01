@@ -1,0 +1,38 @@
+[
+  {
+    "building_id": "1",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "height": 800
+  },
+  {
+    "building_id": "2",
+    "latitude": 40.7306,
+    "longitude": -73.935,
+    "height": 1500
+  },
+  {
+    "building_id": "3",
+    "latitude": 40.758,
+    "longitude": -73.9855,
+    "height": 1200
+  },
+  {
+    "building_id": "4",
+    "latitude": 40.7585,
+    "longitude": -73.945,
+    "height": 600
+  },
+  {
+    "building_id": "5",
+    "latitude": 40.758,
+    "longitude": -73.955,
+    "height": 400
+  },
+  {
+    "building_id": "6",
+    "latitude": 40.759,
+    "longitude": -73.920,
+    "height": 2500
+  }
+]

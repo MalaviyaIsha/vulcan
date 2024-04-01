@@ -1,0 +1,2207 @@
+[
+    {
+        "wellpad_id": "473887",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "AETHON ENERGY OPERATING LLC",
+        "lat": 31.6267475,
+        "long": -94.463706,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "477538",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Kimmeridge Texas Gas, LLC",
+        "lat": 27.818821333333336,
+        "long": -99.44210166666666,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "477075",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "QUAIL RIDGE OPERATING LLC",
+        "lat": 33.55616225,
+        "long": -97.95852525000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "472297",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CROWNQUEST OPERATING LLC",
+        "lat": 31.81034675,
+        "long": -101.78322275,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475105",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SABINE OIL & GAS CORPORATION",
+        "lat": 32.418308499999995,
+        "long": -94.1703555,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "472307",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXCO RESOURCES INC",
+        "lat": 31.451939499999995,
+        "long": -94.434564,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476761",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "FAIR OIL LTD",
+        "lat": 33.181518,
+        "long": -95.181206,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "459670",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CRESTONE PEAK RESOURCES OPERATING LLC",
+        "lat": 39.71752608333334,
+        "long": -104.64239633333331,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "466001",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.1500817,
+        "long": -103.57888597499999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "447093",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHEVRON USA INC",
+        "lat": 32.06313133333333,
+        "long": -104.154283,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "464134",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COTERRA ENERGY INC",
+        "lat": 35.5505435,
+        "long": -98.152532,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "417451",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONTINENTAL RESOURCES",
+        "lat": 47.84692749999999,
+        "long": -103.03397625000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "422355",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CALLON",
+        "lat": 31.4952434,
+        "long": -103.2767974,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "369761",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "R360 ENVIRONMENTAL SOLUTIONS OF LA LLC",
+        "lat": 32.349005,
+        "long": -93.495854,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "342683",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 31.947154141915604,
+        "long": -102.0262759423195,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "184528",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MATADOR",
+        "lat": 32.03453818181818,
+        "long": -103.7813509090909,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "467448",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "RANGE RESOURCES LLC",
+        "lat": 40.168184124999996,
+        "long": -80.3002995,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "468369",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PENNENERGY RESOURCES LLC",
+        "lat": 40.7112692,
+        "long": -79.79195039999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "474680",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EQUINOR",
+        "lat": 39.7261172,
+        "long": -80.9115862,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "460050",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 35.58086,
+        "long": -98.12523,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474053",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HIBERNIA RESOURCES LLC",
+        "lat": 31.312136,
+        "long": -101.747104,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479302",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ARRINGTON OIL & GAS OPERATING LLC",
+        "lat": 30.922366,
+        "long": -102.455285,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "467337",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENDEAVOR ENERGY RESOURCES LP",
+        "lat": 31.9323515,
+        "long": -102.11499333333332,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "461937",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ANTERO RESOURCES CORPORATION",
+        "lat": 39.5550056,
+        "long": -80.81876700000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "422385",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SM ENERGY",
+        "lat": 31.626560499999997,
+        "long": -102.23637583333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476197",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 47.417653666666666,
+        "long": -102.70752066666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479383",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.164628,
+        "long": -101.5699255,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "414119",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 32.15298596666666,
+        "long": -103.68725693333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "422720",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EQT PRODUCTION COMPANY",
+        "lat": 39.822999499999995,
+        "long": -80.65621949999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "336543",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 39.8817884375,
+        "long": -108.322734375,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "462327",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "RIO OIL & GAS (PERMIAN) LLC",
+        "lat": 31.783076,
+        "long": -103.9367455,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "470953",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.260025850000005,
+        "long": -103.68009162499999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477674",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PERMIAN RESOURCES",
+        "lat": 31.487105333333332,
+        "long": -103.597919,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "482538",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "VALPOINT OPERATING LLC",
+        "lat": 35.98935316,
+        "long": -99.58168829,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "474607",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 28.406832,
+        "long": -98.35452875,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "468965",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COMSTOCK",
+        "lat": 32.38016,
+        "long": -93.34494133333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "424182",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HG ENERGY",
+        "lat": 39.116710083333324,
+        "long": -80.54811508333334,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "461891",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 32.431256833333336,
+        "long": -102.17250383333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "450649",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHEVRON USA INC",
+        "lat": 32.04906785714285,
+        "long": -104.14007442857144,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479773",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 43.56516833333333,
+        "long": -105.43423583333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472971",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "TGNR EAST TEXAS LLC",
+        "lat": 32.1119038,
+        "long": -94.2466316,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479420",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COMSTOCK",
+        "lat": 31.116401000000003,
+        "long": -96.35041,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479257",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "TRIPLE CROWN RESOURCES LLC",
+        "lat": 31.007188666666664,
+        "long": -101.10130249999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "466531",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 31.583224,
+        "long": -102.10143575,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474987",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "REPSOL OIL & GAS USA LLC",
+        "lat": 41.8461096,
+        "long": -76.10529799999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479664",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DIAMONDBACK ENERGY",
+        "lat": 32.490697,
+        "long": -101.78016628571427,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474662",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "GEP",
+        "lat": 31.857974765,
+        "long": -93.67824028499999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479438",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.3818145,
+        "long": -103.7091315,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477654",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OVINTIV",
+        "lat": 32.07831225,
+        "long": -102.185339,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480137",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.20898133333333,
+        "long": -103.83502566666668,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "466871",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.21836022222222,
+        "long": -103.93412533333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "475354",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENDEAVOR ENERGY RESOURCES LP",
+        "lat": 32.05267216666666,
+        "long": -101.98566083333333,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "477390",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MATADOR",
+        "lat": 32.511585457142864,
+        "long": -104.06508720000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479662",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Red Tail Exploration, LLC",
+        "lat": 33.139519,
+        "long": -102.60896,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476232",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "RANGE RESOURCES LLC",
+        "lat": 40.343402,
+        "long": -80.43171866666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479730",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 28.60770957142857,
+        "long": -98.72494228571428,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476529",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "GREENLAKE ENERGY OPERATING LLC",
+        "lat": 31.147702,
+        "long": -103.53389700000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "246592",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "VERDAD RESOURCES LLC",
+        "lat": 40.120314473684196,
+        "long": -104.50119289473686,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "477530",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Ridgemar Energy Operating, LLC",
+        "lat": 28.541167333333334,
+        "long": -99.25707666666666,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "392901",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 32.13080111111111,
+        "long": -103.44329088888888,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "453952",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.383306000000005,
+        "long": -103.7141748,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472040",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONTINENTAL RESOURCES",
+        "lat": 34.667444,
+        "long": -97.638127,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475827",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HESS CORPORATION",
+        "lat": 48.2127212,
+        "long": -102.6591688,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "451949",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HUNTLEY & HUNTLEY INC",
+        "lat": 40.251617833333334,
+        "long": -79.86542949999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "412518",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 32.13083745454545,
+        "long": -103.43598645454544,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "413809",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONTINENTAL RESOURCES",
+        "lat": 47.486760555555556,
+        "long": -102.94355900000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479775",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXCO RESOURCES INC",
+        "lat": 28.804211000000002,
+        "long": -99.54390000000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472286",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DIAMONDBACK ENERGY",
+        "lat": 32.341587999999994,
+        "long": -102.10660328571427,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "481574",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PERMIAN RESOURCES",
+        "lat": 31.223811499999996,
+        "long": -103.58148249999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "469775",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "NOW ENVIRONMENTAL SOLUTIONS LLC",
+        "lat": 28.280347999999996,
+        "long": -99.764999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "480849",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "VERDUN OIL & GAS LLC",
+        "lat": 28.776815999999997,
+        "long": -98.11546,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "481589",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BLACKBEARD OPERATING LLC",
+        "lat": 31.72984,
+        "long": -102.900097,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476683",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 32.340177600000004,
+        "long": -103.72626836666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "453298",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 35.769637845000005,
+        "long": -98.00210813000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472782",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 31.796853999999996,
+        "long": -103.95610900000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479274",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.555003166666665,
+        "long": -102.09067383333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "339376",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 32.42909441666667,
+        "long": -102.17897900000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "471579",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.260015333333335,
+        "long": -103.68334829999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "469800",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PERMIAN DEEP ROCK OIL COMPANY LLC",
+        "lat": 31.975692000000002,
+        "long": -102.0472,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "480142",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.21014875,
+        "long": -103.84142625,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "473260",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.3104072,
+        "long": -101.8629952,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "466672",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SWN",
+        "lat": 41.77885,
+        "long": -76.28107333333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479634",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.163675,
+        "long": -101.5749005,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "460253",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ANTERO RESOURCES CORPORATION",
+        "lat": 39.30363885714285,
+        "long": -80.78176457142857,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476116",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.30987975,
+        "long": -101.87161900000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "482447",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BURK ROYALTY COMPANY LTD",
+        "lat": 33.123637,
+        "long": -102.9658545,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "243202",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PDC ENERGY",
+        "lat": 40.4525206,
+        "long": -104.8638792,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "334177",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "AETHON ENERGY OPERATING LLC",
+        "lat": 31.40487075,
+        "long": -94.60906299999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "470361",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 31.4867614,
+        "long": -101.8701442,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "481332",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "UPLAND OPERATING LLC",
+        "lat": 35.79570942,
+        "long": -99.76717597,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "107114",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SURGE OPERATING LLC",
+        "lat": 32.3499406,
+        "long": -101.4091518,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "470147",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 28.95943916666667,
+        "long": -97.79603333333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "422284",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "WILDFIRE ENERGY OPERATING LLC",
+        "lat": 30.9632935,
+        "long": -96.095051,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "469078",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "KERR MCGEE OIL & GAS ONSHORE LP",
+        "lat": 40.23346770588236,
+        "long": -104.71145494117647,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "412674",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHESAPEAKE ENERGY CORPORATION",
+        "lat": 31.991767516000003,
+        "long": -93.413945434,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "468964",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COMSTOCK",
+        "lat": 32.38466,
+        "long": -93.350626,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480041",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MACK ENERGY COMPANY",
+        "lat": 34.69118350000001,
+        "long": -97.70434499999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "461299",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "KERR MCGEE OIL & GAS ONSHORE LP",
+        "lat": 40.2602251875,
+        "long": -104.8916761875,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "11568",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "RANGE RESOURCES LLC",
+        "lat": 40.333380933333345,
+        "long": -80.20658999999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "451878",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENERPLUS CORP",
+        "lat": 47.50295727272728,
+        "long": -103.03361418181818,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472769",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 31.82379366666667,
+        "long": -103.336699,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "469379",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENDEAVOR ENERGY RESOURCES LP",
+        "lat": 31.959141999999993,
+        "long": -102.12957759999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475502",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.208728,
+        "long": -103.7668055,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "469935",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "TRP OPERATING LLC",
+        "lat": 31.3148032,
+        "long": -101.9601652,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475555",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 32.1524742,
+        "long": -103.6818837,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476725",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 28.664149,
+        "long": -98.372787,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "475162",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 31.868000749999997,
+        "long": -103.99176625,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "449608",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Vital Energy, Inc.",
+        "lat": 31.5610996,
+        "long": -103.24293159999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479540",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "JETTA OPERATING COMPANY INC",
+        "lat": 33.713765,
+        "long": -96.728873,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476891",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 28.7267696,
+        "long": -98.1246347,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "193434",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SWN",
+        "lat": 40.15157844444444,
+        "long": -80.52391966666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472593",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 31.893204499999996,
+        "long": -103.9321645,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476093",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SABINE OIL & GAS CORPORATION",
+        "lat": 32.50117166666667,
+        "long": -94.50866633333334,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "448529",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SWN",
+        "lat": 31.9460095,
+        "long": -93.44686016666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "390668",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "APACHE CORPORATION",
+        "lat": 31.78286575,
+        "long": -101.78640425,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "464827",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 32.2829175375,
+        "long": -103.872202025,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "473242",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Vital Energy, Inc.",
+        "lat": 32.32276875,
+        "long": -101.39783012499998,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "412183",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PDC ENERGY",
+        "lat": 40.23467475,
+        "long": -104.78728874999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477381",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.208934,
+        "long": -103.7683895,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "473410",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COTERRA ENERGY INC",
+        "lat": 31.863154399999996,
+        "long": -104.11875280000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477434",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONTINENTAL RESOURCES",
+        "lat": 31.336799666666664,
+        "long": -103.121982,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "450693",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.1822703,
+        "long": -103.6817786,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "468302",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "KERR MCGEE OIL & GAS ONSHORE LP",
+        "lat": 40.257039,
+        "long": -104.68806757142856,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476732",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 28.663363750000002,
+        "long": -98.37421124999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "447160",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.369248666666664,
+        "long": -103.649984,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "415245",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 32.145666750000004,
+        "long": -103.41993675,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "160129",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "LAUREL MOUNTAIN PRODUCTION",
+        "lat": 41.12735333333333,
+        "long": -79.5917,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "447691",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SUMMIT PETROLEUM LLC",
+        "lat": 31.702738,
+        "long": -102.244325,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "417658",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "WILDFIRE ENERGY OPERATING LLC",
+        "lat": 30.4726916,
+        "long": -96.6466556,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479281",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HIGHPEAK ENERGY HOLDINGS LLC",
+        "lat": 32.40805916666667,
+        "long": -101.27203850000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480207",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Javelin Energy Partners Management LLC",
+        "lat": 28.227176749999998,
+        "long": -99.88569724999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "467512",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "AETHON ENERGY OPERATING LLC",
+        "lat": 31.151472499999997,
+        "long": -96.35694000000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "481875",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SABINAL ENERGY OPERATING LLC",
+        "lat": 33.440085,
+        "long": -102.47609999999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "416463",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 32.240082,
+        "long": -103.6967375,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "473745",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.310856,
+        "long": -101.86912633333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480637",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.9164615,
+        "long": -102.834948,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "469794",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PERMIAN DEEP ROCK OIL COMPANY LLC",
+        "lat": 31.975431750000002,
+        "long": -102.04855375,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "458315",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DIAMONDBACK ENERGY",
+        "lat": 31.196037500000003,
+        "long": -103.1849885,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480197",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 29.038654,
+        "long": -97.5566065,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474925",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 31.750216166666664,
+        "long": -103.22311649999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "414885",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.383324428571434,
+        "long": -103.70932657142858,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472298",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CROWNQUEST OPERATING LLC",
+        "lat": 31.811235666666665,
+        "long": -101.77749833333333,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479799",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ANSCHUTZ EXPLORATION CORPORATION",
+        "lat": 43.101275,
+        "long": -105.401258,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "473264",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DIAMONDBACK ENERGY",
+        "lat": 32.515186,
+        "long": -102.20782175,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "469603",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Kimmeridge Texas Gas, LLC",
+        "lat": 27.737690199999996,
+        "long": -99.4841116,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "466515",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 31.5998812,
+        "long": -102.10283740000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "5472",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 32.13720646,
+        "long": -103.60860775,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474857",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DE OPERATING LLC",
+        "lat": 31.342785333333335,
+        "long": -101.53518316666667,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479905",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.919593,
+        "long": -102.83523000000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "466638",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 32.346610275,
+        "long": -104.06824069,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "471787",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHEVRON USA INC",
+        "lat": 31.323626499999996,
+        "long": -103.26424125,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479623",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CRAWLEY PETROLEUM CORPORATION",
+        "lat": 35.829259,
+        "long": -99.705356,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "468843",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 31.893148250000003,
+        "long": -103.93659025000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476948",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "US ENERGY DEVELOPMENT CORPORATION",
+        "lat": 31.3274816,
+        "long": -103.4941352,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476714",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HESS CORPORATION",
+        "lat": 48.312562400000004,
+        "long": -103.3060354,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "411408",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MALLARD EXPLORATION LLC",
+        "lat": 40.63146728571428,
+        "long": -104.22260100000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475182",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SM ENERGY",
+        "lat": 31.627419333333332,
+        "long": -102.23461333333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "418988",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENDEAVOR NATURAL GAS LP",
+        "lat": 28.389266,
+        "long": -100.0337315,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "460559",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 29.2991576,
+        "long": -97.2803018,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476256",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Hannathon Petroleum II, LLC",
+        "lat": 31.7222778,
+        "long": -101.502849,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "382540",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ANSCHUTZ EXPLORATION CORPORATION",
+        "lat": 43.015655833333334,
+        "long": -105.19238308333333,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "480013",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHEVRON USA INC",
+        "lat": 40.29701240000001,
+        "long": -104.5167092,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479560",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 32.113758274999995,
+        "long": -93.50122028499999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "470466",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CNX GAS COMPANY LLC",
+        "lat": 40.5365568,
+        "long": -79.52315200000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476410",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHEVRON USA INC",
+        "lat": 40.2971615,
+        "long": -104.5326105,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474497",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 32.1664908,
+        "long": -101.88931519999998,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "472200",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 32.0917097,
+        "long": -103.92424994285716,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479832",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 32.74316579999999,
+        "long": -104.07014436666668,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "426996",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EDGE ENERGY LLC",
+        "lat": 40.3061295,
+        "long": -104.37057454545453,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "450710",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 32.182328,
+        "long": -103.67491427272729,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "412532",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COTERRA ENERGY INC",
+        "lat": 32.23833966666667,
+        "long": -103.64493133333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "467202",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ENDEAVOR ENERGY RESOURCES LP",
+        "lat": 31.9595736,
+        "long": -102.1279548,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "474796",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 29.1581634,
+        "long": -97.4883772,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474270",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 31.433641500000004,
+        "long": -101.75679866666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476465",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Trinity Gas Storage, LLC",
+        "lat": 31.890255000000003,
+        "long": -95.9039452,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475295",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PILLAR EFS LLC",
+        "lat": 28.895500999999996,
+        "long": -98.3335,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476513",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 32.13047483333333,
+        "long": -101.90505433333334,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "466316",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SNYDER BROS INC",
+        "lat": 40.897182,
+        "long": -79.383805,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479663",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "APACHE CORPORATION",
+        "lat": 31.784409,
+        "long": -102.1657286,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476583",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CPRP SERVICES LLC",
+        "lat": 34.770710666666666,
+        "long": -97.62078000000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "462977",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EXXON MOBIL",
+        "lat": 28.531339749999997,
+        "long": -98.970304,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476107",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 28.797132999999995,
+        "long": -98.00761000000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "457899",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "REPSOL OIL & GAS USA LLC",
+        "lat": 28.88498083333333,
+        "long": -97.67499166666668,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "473430",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ROCKCLIFF ENERGY OPERATING LLC",
+        "lat": 32.459413,
+        "long": -94.12029150000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "469006",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "COTERRA ENERGY",
+        "lat": 41.83761425,
+        "long": -75.9694075,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "481824",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "FIREBIRD ENERGY II LLC",
+        "lat": 31.527682999999996,
+        "long": -102.22017066666666,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "465307",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "GRAYSON MILL OPERATING LLC",
+        "lat": 48.02468675,
+        "long": -103.242676,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "416568",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EQT PRODUCTION COMPANY",
+        "lat": 41.45885777777778,
+        "long": -76.82157933333332,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "473684",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HESS CORPORATION",
+        "lat": 48.3711286,
+        "long": -102.7353468,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "461583",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "R LACY SERVICES LTD",
+        "lat": 32.252064,
+        "long": -94.3903605,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476530",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "VTX ENERGY OPERATING, LLC",
+        "lat": 31.289801500000003,
+        "long": -103.206818,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "470941",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 32.0201365,
+        "long": -104.00959850000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "458299",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PIONEER NATURAL RESOURCES",
+        "lat": 31.418281833333328,
+        "long": -101.76086333333335,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "420325",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HIGHPEAK ENERGY HOLDINGS LLC",
+        "lat": 32.48209375,
+        "long": -101.27877425,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "452177",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MALLARD EXPLORATION LLC",
+        "lat": 40.6502975,
+        "long": -104.12689599999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "475727",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ANTERO RESOURCES CORPORATION",
+        "lat": 39.554836,
+        "long": -80.818767,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "475068",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ASCENT ENERGY LLC",
+        "lat": 40.13424575,
+        "long": -81.32758749999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "480254",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ROCC Oil & Gas, L.P.",
+        "lat": 29.584694,
+        "long": -97.13863099999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "472373",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SLAWSON EXPLORATION COMPANY INC",
+        "lat": 47.846819249999996,
+        "long": -103.40293725000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "481970",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ROSE CITY RESOURCES LLC",
+        "lat": 32.954857,
+        "long": -94.494558,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "472803",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "NORTHEAST NATURAL ENERGY LLC",
+        "lat": 39.6412795,
+        "long": -80.2721765,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "474064",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "WHITING OIL & GAS CORPORATION",
+        "lat": 48.01266983333333,
+        "long": -102.51670200000001,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "468880",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 35.564961333333336,
+        "long": -98.14410100000002,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474537",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 32.70121675,
+        "long": -104.12122025,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "467338",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "VENCER ENERGY LLC",
+        "lat": 31.510744375,
+        "long": -101.576666625,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "481522",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "HIGHPEAK ENERGY HOLDINGS LLC",
+        "lat": 32.600012,
+        "long": -101.279217,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476482",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "Hannathon Petroleum II, LLC",
+        "lat": 31.720694166666664,
+        "long": -101.51040516666666,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "481560",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PERMIAN RESOURCES",
+        "lat": 31.260005,
+        "long": -103.5648005,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476517",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BAYSWATER EXPLORATION & PRODUCTION LLC",
+        "lat": 32.4016248,
+        "long": -101.174379,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "413025",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MATADOR",
+        "lat": 32.400597,
+        "long": -103.58804566666667,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "455634",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "AETHON ENERGY OPERATING LLC",
+        "lat": 31.535747499999996,
+        "long": -94.392498125,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "476857",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "PENNENERGY RESOURCES LLC",
+        "lat": 40.73462433333333,
+        "long": -79.891072,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "470433",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHORD ENERGY",
+        "lat": 48.066416833333335,
+        "long": -104.00521033333332,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477993",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "WHITING OIL & GAS CORPORATION",
+        "lat": 48.00998666666667,
+        "long": -102.5134,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478157",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 47.871591,
+        "long": -102.29155225,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "415423",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONOCOPHILLIPS",
+        "lat": 47.526383749999994,
+        "long": -102.68544175,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477714",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "BP",
+        "lat": 32.1391625,
+        "long": -93.95559850000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478956",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 43.175496666666675,
+        "long": -105.32880933333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "479009",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "AVANT OPERATING LLC",
+        "lat": 32.55212986666666,
+        "long": -103.62775756666667,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "417908",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SENECA RESOURCES CORPORATION",
+        "lat": 41.549234999999996,
+        "long": -78.33200099999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478867",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OVINTIV",
+        "lat": 31.650348,
+        "long": -102.09198900000001,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "418106",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EQT PRODUCTION COMPANY",
+        "lat": 39.772418,
+        "long": -80.437126,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "480050",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "NextEra Energy Inc",
+        "lat": 34.923470045,
+        "long": -96.005524555,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478172",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EAP OHIO LLC",
+        "lat": 40.4172055,
+        "long": -80.86437149999999,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478021",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MAGNOLIA OIL & GAS OPERATING LLC",
+        "lat": 29.89638725,
+        "long": -96.76066825,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "418301",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DIAMONDBACK ENERGY",
+        "lat": 32.30146583333333,
+        "long": -102.21787483333333,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478154",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "ASCENT ENERGY LLC",
+        "lat": 40.124389,
+        "long": -81.253105,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478919",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EOG RESOURCES INC",
+        "lat": 29.291347,
+        "long": -97.36768128571428,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "419046",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EQT PRODUCTION COMPANY",
+        "lat": 39.768981000000004,
+        "long": -80.23567485714285,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478770",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.42628145,
+        "long": -103.67630583,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477718",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "TELLURIAN OPERATING LLC",
+        "lat": 32.468015574999995,
+        "long": -93.43822035,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "479411",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 36.108442,
+        "long": -100.551069,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "459193",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SM ENERGY",
+        "lat": 31.629654000000002,
+        "long": -102.24788699999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477954",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "SM ENERGY",
+        "lat": 28.006635,
+        "long": -99.92040449999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "474922",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "DEVON ENERGY",
+        "lat": 31.751905999999995,
+        "long": -103.21668899999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478923",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CHESAPEAKE ENERGY CORPORATION",
+        "lat": 41.681799999999996,
+        "long": -76.343985,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477981",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MARATHON OIL COMPANY",
+        "lat": 47.385356124999994,
+        "long": -102.72035749999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "476369",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "KODA RESOURCES OPERATING LLC",
+        "lat": 48.678157,
+        "long": -103.83364500000002,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478779",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "OCCIDENTAL PETROLEUM CORPORATION",
+        "lat": 32.42683449999999,
+        "long": -103.67643407999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "477841",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "EP ENERGY EXPLORATION & PRODUCTION COMPANY LLC",
+        "lat": 28.420636000000002,
+        "long": -99.25290125,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478789",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "CONTINENTAL RESOURCES",
+        "lat": 34.523413,
+        "long": -97.179801,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478329",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "APACHE CORPORATION",
+        "lat": 31.745194000000005,
+        "long": -101.754521,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478156",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "GULFPORT ENERGY CORPORATION",
+        "lat": 39.94599,
+        "long": -81.08663759999999,
+        "ownership": "PUBLIC"
+    },
+    {
+        "wellpad_id": "478262",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "MEWBOURNE OIL COMPANY",
+        "lat": 36.0285075,
+        "long": -99.8122285,
+        "ownership": "PRIVATE"
+    },
+    {
+        "wellpad_id": "478845",
+        "date": "2024-03-25T00:00:00.000Z",
+        "status": "Fracking",
+        "operator_name": "UPCURVE ENERGY LLC",
+        "lat": 31.276287000000007,
+        "long": -103.57009233333333,
+        "ownership": "PRIVATE"
+    }
+]

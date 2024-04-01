@@ -1,0 +1,9 @@
+.deck-div {
+  .maplibregl-map {
+    div {
+      &:last-child {
+        display: none;
+      }
+    }
+  }
+}
